@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "042d996d7d58d317a48c3bbe",
+  "owner": "vcenct",
+  "repo": "page-6e702387411ed35c98364cee",
+  "title": "fold机场(fold)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6e702387411ed35c98364cee",
+      "a": "fold机场(fold)",
+      "b": "",
+      "entity": "fold机场(fold)",
+      "brand": "fold机场(fold)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "df3ba2b22b2ad26f486718daa5b118797e0854938627324d4d002b3c976356a3",
+      "content": {
+        "keyword1": "fold机场(fold)",
+        "keyword2": "",
+        "primary_entity": "fold机场(fold)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "fold机场(fold) 用清单列出档位对照、操作顺序与折叠问答。价格与权益以页面正文为准，未列出的能力不作承诺。",
+          "AI_DESCRIPTION": "fold机场(fold) 用清单列出档位对照、操作顺序与折叠问答。价格与权益以页面正文为准，未列出的能力不作承诺。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{font-family:\"Songti SC\",\"SimSun\",\"Noto Serif SC\",serif;background:#e8e8ed;color:#1a1a22;line-height:1.65}\na{color:#6b2cff;text-decoration:underline}\nmain{max-width:720px;margin:0 auto;padding:28px 18px 80px}\nh1{font-size:clamp(2.4rem,8vw,3.6rem);letter-spacing:.04em;margin:0 0 12px;color:#4a1ad4;font-weight:700}\nh2{font-size:1.35rem;margin:48px 0 16px;color:#3a18a8;border-bottom:2px dashed #6b2cff;padding-bottom:8px}\nh3{font-size:1.08rem;margin:0 0 10px;color:#2a1478}\n.meta{font-size:.92rem;color:#444}\n.jump{font-size:.88rem;margin:18px 0 32px}\n.jump a{margin-right:14px}\n.timeline{border-left:3px solid #6b2cff;margin:24px 0 8px 8px;padding:0 0 8px 22px}\n.tl-item{position:relative;margin:0 0 28px}\n.tl-item:before{content:\"\";position:absolute;left:-29px;top:6px;width:12px;height:12px;background:#c9b3ff;border:2px solid #6b2cff;border-radius:50%}\n.tl-k{font-size:.78rem;letter-spacing:.12em;color:#6b2cff;text-transform:uppercase}\n.ticket{border:2px dashed #6b2cff;background:#f4f4f8;padding:22px 20px;margin:0 0 18px;border-radius:2px}\n.ticket .price{font-size:1.5rem;color:#4a1ad4;margin:8px 0}\n.ticket ul{margin:8px 0 0;padding-left:1.2em}\n.mark{display:inline-block;border:1px dashed #6b2cff;padding:2px 8px;font-size:.75rem;color:#4a1ad4;margin-left:8px}\n.stack{display:flex;flex-direction:column;gap:0}\ndetails{border:2px dashed #6b2cff;padding:12px 14px;margin:0 0 10px;background:#f7f7fb}\nsummary{cursor:pointer;color:#3a18a8;font-weight:600}\n.note{font-size:.86rem;color:#555}\nfooter{margin-top:56px;font-size:.82rem;color:#666;border-top:1px dashed #aaa;padding-top:16px}\n</style><main>\n<header>\n<p class=\"tl-k\">纵向时间线 · 开场</p>\n<h1>fold机场(fold)</h1>\n<p class=\"meta\">清单说明：先看顺序，再对照档位，最后查折叠问答。本页不设顶部导航条，请用区块内跳转。</p>\n<p class=\"jump\">\n<a href=\"#steps\">使用顺序</a>\n<a href=\"#plans\">档位清单</a>\n<a href=\"#clients\">客户端说明</a>\n<a href=\"#faq\">常见问题</a>\n</p>\n</header>\n\n<section class=\"timeline\" aria-label=\"引入时间线\">\n<article class=\"tl-item\">\n<p class=\"tl-k\">01 登记意向</p>\n<h2>先记下你要对照的三件事</h2>\n<ul>\n<li>月付或年付哪一种更省事</li>\n<li>同时在线设备数量是否够用</li>\n<li>流量额度是否覆盖当月用量</li>\n</ul>\n</article>\n<article class=\"tl-item\">\n<p class=\"tl-k\">02 对照档位</p>\n<p>基础版、旗舰版、团队版按单列大卡向下堆叠。带推荐标记的仅表示页面排版强调，不代表额外官方认证。</p>\n</article>\n<article class=\"tl-item\">\n<p class=\"tl-k\">03 安装与核对</p>\n<p>客户端下载地址未提供可靠来源时，本页不写伪造链接。自行准备常用配置工具后，再回到档位权益逐条核对。</p>\n</article>\n<article class=\"tl-item\">\n<p class=\"tl-k\">04 问题归档</p>\n<p>把重复出现的疑问放进折叠问答，避免在聊天里反复口述同一条。</p>\n</article>\n</section>\n\n<section id=\"steps\">\n<h2>使用说明（清单）</h2>\n<ol>\n<li>打开本页档位区，抄下价格与年付对照。</li>\n<li>按设备台数上限筛选：3 / 5 / 20。</li>\n<li>按流量额度筛选：100GB / 300GB / 1000GB（均为每月额度，以档位原文为准）。</li>\n<li>准备本机客户端；无官方下载地址时，不在本页填写空链接商店。</li>\n<li>导入订阅后，只核对自己购买档位里写明的条目，未写明的能力视为未提供。</li>\n<li>工单或客户经理仅出现在对应档位权益中，其他档位不要默认享有。</li>\n</ol>\n<p class=\"note\">facts 为空：不声称节点数量、延迟、日志政策、退款、兼容列表或任何评测结果。</p>\n</section>\n\n<section id=\"plans\">\n<h2>档位：单列大卡依次堆叠</h2>\n<div class=\"stack\">\n<article class=\"ticket\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p>按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 流量额度</li>\n<li>支持 3 台设备同时在线</li>\n<li>基础流媒体相关条目（以套餐原文为限）</li>\n<li>普通线路节点池（名称沿用档位原文，不作性能保证）</li>\n</ul>\n</article>\n<article class=\"ticket\">\n<h3>旗舰版 <span class=\"mark\">页面推荐标记</span></h3>\n<p class=\"price\">¥35/月</p>\n<p>按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 流量额度</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁（档位原文，非实测声明）</li>\n<li>IPLC 专线游戏相关优化条目（档位原文）</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"ticket\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p>按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 流量额度</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点（档位原文）</li>\n<li>支持企业定制路由（档位原文）</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n</section>\n\n<section id=\"clients\">\n<h2>客户端区块</h2>\n<article class=\"ticket\">\n<h3>下载与导入（中性说明）</h3>\n<ul>\n<li>目前没有可核验的官方客户端地址，链接留空，不伪造商店或网盘。</li>\n<li>自行使用已安装的配置工具导入订阅即可；步骤因工具而异，本页不指定软件名。</li>\n<li>设备台数以所购档位上限为准：基础 3、旗舰 5、团队 20。</li>\n<li>若导入失败，先核对订阅是否仍在有效期，再对照折叠问答。</li>\n</ul>\n<p class=\"note\">url：</p>\n</article>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>年付和月付怎么对照？</summary>\n<p>基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。先算你打算用几个月，再决定是否年付。</p>\n</details>\n<details>\n<summary>流量用完会怎样？本页能保证吗？</summary>\n<p>本页只列出每月额度数字。用尽后的处理方式未在 facts 中给出，因此不作承诺，请以你实际购买渠道的说明为准。</p>\n</details>\n<details>\n<summary>没有客户端链接怎么安装？</summary>\n<p>因为没有可靠下载地址，本页使用空字符串策略：不写假链接。用你已有的工具导入订阅，并遵守设备台数上限。</p>\n</details>\n<details>\n<summary>工单和客户经理谁能用？</summary>\n<p>清单：优先工单写在旗舰版；专属客户经理写在团队版。基础版条目中未列出这两项。</p>\n</details>\n</section>\n<footer>\n<p>fold机场(fold) 静态说明页。区块内跳转：<a href=\"#steps\">使用顺序</a> · <a href=\"#plans\">档位</a> · <a href=\"#clients\">客户端</a> · <a href=\"#faq\">问答</a></p>\n</footer>\n</main>",
+          "hash": "436ee9540b949d5b52d65ec316c40cf32f3caf91200cc75d4ed30aedbc389cfa",
+          "seo": {
+            "title": "fold机场(fold) 订阅档位、使用步骤与常见问题",
+            "keywords": "fold机场, fold, 订阅档位, 使用步骤, 常见问题",
+            "description": "fold机场(fold) 用清单列出档位对照、操作顺序与折叠问答。价格与权益以页面正文为准，未列出的能力不作承诺。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "5093",
+            "hero": "6 纵向时间线引入",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yhczs.cn",
+    "host": "p-6d798eb693.yhczs.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "45b96a6bef98fe98a9748e63c349e8d41b2b83297704398cd2da3d3ec4a1c921",
+    "sitemap.xml": "f8d05fda1a3e339627bafc1798f73aec324dfe48877029ee9ab9754eed9f27b8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9b4e54d5f6d45fbf1bacd164fd60d2438ef8cd01dee24c580231d37caf1532ca",
+    "robots.txt": "17f18338328e8849818412eed55e788c57125ed642b0e944b950828c9116a45a",
+    "19f2b3959c8cb805918268d5f57d794a.txt": "69965dfc1f9cb514f52bd45011fa0c9bd895a4b5438d89bb19557fcb08896d42"
+  },
+  "revision": "213c27158727458a5414ce3808e3df153571ec0a6242a4c9669143072672a49f"
+}
